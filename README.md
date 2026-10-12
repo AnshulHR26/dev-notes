@@ -51,7 +51,7 @@ Each topic has its own folder. Screenshots live in an `images/` folder next to t
 ## 🔗 Related
 
 - [projects-portfolio](https://github.com/AnshulHR26/projects-portfolio) — my projects
-- [daily-tasks](https://github.com/AnshulHR26/daily-tasks) — full-stack task manager built with FastAPI + PostgreSQL
+- [TaskSync](https://github.com/AnshulHR26/tasksync) — real-time full-stack task manager built with FastAPI + PostgreSQL
 
 ---
 
