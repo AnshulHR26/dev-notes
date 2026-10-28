@@ -17,6 +17,7 @@
 | Topic | Guide | Description |
 |---|---|---|
 | 🔧 **Git** | [Git Setup Guide for Windows (Git 2.56)](git/git-setup-windows.md) | Installing Git for Windows with the reason behind every option, first-time config, connecting to GitHub, daily cheat sheet and troubleshooting |
+| 🔧 **Git** | [Git Bash & Git Commands — Learn with Best](git/git-bash-commands.md) | Complete Git Bash command notes in 16 sections: terminal basics, staging & commits, clone / fetch / pull, commit history, `.gitignore`, branches & merging, reset & revert, stash, HTTPS & SSH authentication, rebase & cherry-pick, tags & releases, team Pull Request workflow, quick reference, common mistakes and a recommended learning order |
 | 🐍 **Python** | _Coming soon_ | |
 | ⚡ **FastAPI** | _Coming soon_ | |
 | 🐘 **PostgreSQL** | _Coming soon_ | |
@@ -28,6 +29,7 @@
 ```
 dev-notes/
 ├── git/
+│   ├── git-bash-commands.md
 │   ├── git-setup-windows.md
 │   └── images/
 ├── python/
